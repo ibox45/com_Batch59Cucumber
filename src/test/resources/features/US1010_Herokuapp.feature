@@ -4,6 +4,7 @@ Feature: US1010 herokuapp Delete testi
 
   Given kullanici "herokuappUrl" anasayfasinda
   And add element botonuna basar
+  And kullanici 3 sn bekler
   Then Delete butonu gorunur oluncaya kadar bekler
   And Delete butonunun gorunur oldugunu test eder
   Then Delete butonuna basar

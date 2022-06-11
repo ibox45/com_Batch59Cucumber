@@ -1,5 +1,5 @@
 Feature: US1008 kullanici fakli yanlis sifre ve kullanici adiyla giris yapamaz
-
+@negative
   Scenario Outline: TC13 yanlis kullanici adi ve sifrelerle giris yapilamaz
 
     Given kullanici "HMCUrl" anasayfasinda
