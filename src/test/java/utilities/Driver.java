@@ -18,7 +18,7 @@ public class Driver {
     driver olusturup ,ilgii ayarların yapılması
     ve en sonda driver'in kapatılması tercih edilmistir.
 
-    POM'de Driver class'ındaki getDriver()'nin obje olustuturlara kullanımasını
+    POM'de Driver class'ındaki getDriver()'nin obje olusturularak kullanımasını
     engellemek icin
     singleton patern kullanımı benımsenmıstır
 
